@@ -1,0 +1,23 @@
+body{
+    background-color:skyblue;
+}
+
+.a{
+    display:flex;
+   padding-left:40px;
+   background-color:white;
+    border:2px solid black;
+    padding-left:30px;
+    padding-right:30px;
+}
+ 
+.b{
+   
+}
+.intro{
+    display:flex;
+}
+
+.cimg{
+    padding-left:900px;
+}
